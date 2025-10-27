@@ -23,7 +23,7 @@ Lessons for eMobilis Web Development Certification course 5th Cohort
 i. Basic structure of a HTML file 
  - 
 1. Tells browser this is a HTML5 document 
-   - < --! <!DOCTYPE html> -- >
+   - (<!DOCTYPE html>)
 
 2. The root of a HTML document and wraps all content of the entire page
    - <! -- <html></html> use -- >
