@@ -23,30 +23,30 @@ Lessons for eMobilis Web Development Certification course 5th Cohort
 i. Basic structure of a HTML file 
  - 
 1. Tells browser this is a HTML5 document 
-   -  <!DOCTYPE html> use   
+   - < --! <!DOCTYPE html> -- >
 
 2. The root of a HTML document and wraps all content of the entire page
-   -  <html></html> use 
+   - <! -- <html></html> use -- >
 
 3. contains the meta info (title, link, script)
-   -  <head></head> use 
+   - <! -- <head></head> -- >
    a. Title - sets the page title that is seen on the tab
       - <title></title>
    b. Link - linking CSS to HTML 
-      - <link rel="stylesheet" href="assets/style/main.css">
+      - <! -- <link rel="stylesheet" href="assets/style/main.css"> -- >
 
 4. Holds the Contents that is seen by the user
-   - <body></body>
+   - <! -- <body></body> -- >
    a. Creating Lists 
-      - Ordered List <ol><li>Tea<li></ol> 
-      - Unordered list <ul><li>Home<li></ul>
+      - Ordered List <! -- <ol><li>Tea<li></ol> -- >
+      - Unordered list <! -- <ul><li>Home<li></ul> -- >
    b. Creating Headings 
-      - Biggest heading <h1></h1> 
-      - Smallest heading <h6></h6>
+      - Biggest heading <! -- <h1></h1> -- >
+      - Smallest heading <! -- <h6></h6> -- >
    c. Writing Normal text 
-      - <p></p>
+      - <! -- <p></p> -- >
    d. Line Breaking <br>
-      - <p> i am Michelle <br> I am 12 years old </p>
+      - <! -- <p> i am Michelle <br> I am 12 years old </p> -- >
    e. Modifying text
       - 
 5. 
